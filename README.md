@@ -1,6 +1,6 @@
 # Agentic RAG Chatbot
 
-An Agentic AI-powered Retrieval-Augmented Generation (RAG) chatbot built using LangGraph, LangChain, OpenAI/Groq LLMs, ChromaDB, and Streamlit.
+An Agentic AI-powered Retrieval-Augmented Generation (RAG) chatbot built using LangGraph, LangChain, OpenAI LLMs, ChromaDB, and Streamlit.
 
 The application combines multiple tools with document retrieval capabilities, enabling users to interact with uploaded documents and external information sources through a single conversational interface.
 
